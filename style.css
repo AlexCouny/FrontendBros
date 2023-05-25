@@ -1,0 +1,117 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/40/84/RLHkBX.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+/* Form */
+form {
+    margin: 0 auto;
+    border: 5px solid #000;
+    border-radius: 30px 30px 30px 30px;
+    width: 500px;
+    height: 800px;
+}
+h1,h2 {
+    text-align: center;
+    color: #fff;
+}
+.form_label {
+    margin-left: 20px;
+    color: #ffffff;
+}
+.form_name {
+    width: 290px;
+    background: transparent;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+}
+.form_name::placeholder {
+    color: #ffffff7e;
+}
+.form_surname {
+    width: 270px;
+    background: transparent;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+}
+.form_surname::placeholder {
+    color: #ffffff7e;
+}
+.form_age {
+    width: 270px;
+    background: transparent;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+}
+.form_age::placeholder {
+    color: #ffffff7e;
+}
+.form_tel {
+    width: 255px;
+    background: transparent;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+}
+.form_tel::placeholder {
+    color: #ffffff7e;
+}
+.form_email {
+    width: 250px;
+    background: transparent;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+}
+.form_email::placeholder {
+    color: #ffffff7e;
+}
+.form_textarea {
+    margin-left: 20px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #ffffffaf;
+    color: #fff;
+}
+.form_privacy {
+    color: #0862f4;
+    text-decoration: underline;
+}
+.form_police {
+    font-size: 18px;
+    margin-left: 20px;
+    color: #fff;
+    color: #000;
+    font-weight: 600;
+}
+.form_choice2 {
+    margin: 0 0 0 40px;
+}
+.form_choice4 {
+    margin: 0 0 0 33px;
+}
+.form_submit {
+    height: 30px;
+    width: 70px;
+    font-size: 15px;
+    border-radius: 10px;
+} 
+.form_div {
+    padding-left: 350px ;
+}
+/* Logo */
+.logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-top: 35px;
+    text-decoration: underline;
+    color: #000;
+    text-transform: uppercase;
+    text-shadow: 3px 6px 6px #000;
+}
+.logo1 {
+    background-color: #fff;
+    border: 3px solid yellow;
+    border-radius: 100px;
+    width: 120px;
+    height: 120px;
+}
